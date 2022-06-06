@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(238, 238, 238);
+  font-family: "Courier New", Courier, monospace;
+}
+
+.first-sec {
+  margin: 30px;
+  text-align: center;
+}
+.first-sec h1 {
+  font-weight: 700;
+}
+.image-sec {
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+}
+.image-sec img {
+  height: 623px;
+}
+.image-sec p {
+  margin: 20px 0px 0px 0px;
+}
+
+.tribute-con {
+  display: flex;
+  justify-content: center;
+}
+
+.tribute {
+  width: 38%;
+}
+.tribute h5 {
+  text-align: center;
+  margin: 50px;
+  font-weight: 700;
+}
+.italics-last {
+  margin: 40px 0px 20px 20px;
+}
+.last {
+  margin: 40px;
+  text-align: center;
+}
